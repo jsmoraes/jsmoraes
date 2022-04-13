@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jsmoraes
+- 🌱 I’m mechanical engineer and I'm developing a web plataform for structural integrity management. 
